@@ -9,9 +9,9 @@ Currently, two official plugins are available:
 
 # Mi proyecto en React : "GESTOR DE PRODUCTOS "
 
- # DESCRIPCION : El siguiente proyecto fue creado con la idea de gestionar productos en general , utilizando para inicializar el programa un sistema de registro y login  , en el programa los ususarios pueden crear , editar , elimiar y visualizar sus productos de una forma comoda y practica .
+ # DESCRIPCION : El siguiente proyecto fue creado con la idea de gestionar productos en general , utilizando para inicializar el programa un sistema de registro y login  , en el programa los usuarios pueden crear , editar , eliminar y visualizar sus productos de una forma cómoda y práctica .
 
- # TECNOLOGIAS : se trabajó utilizando lenguaje javascript , se utiliza un sistema de validacion de ususarios con email y contraseñas , se utilizo JWT (jason web token) para asi obtener un sistema seguro ,se utilizó tambien node js , enrutadores express , se han colocado las rutas para los controladores en general , se utilizo un sistema de validacion de productos , tambien para su carga su eliminacion , actualizacion . 
+ # TECNOLOGIAS : se trabajó utilizando lenguaje javascript , se utiliza un sistema de validacion de usuarios con email y contraseñas , se utilizo JWT (jason web token) para asi obtener un sistema seguro ,se utilizó tambien node js , enrutadores express , se han colocado las rutas para los controladores en general , se utilizo un sistema de validación de productos , tambien para su carga su eliminación , actualización . 
 
 
  # AUTOR : Lucas Alfredo Melo / 2024 LM DEV. Todos los derechos reservados.- 
