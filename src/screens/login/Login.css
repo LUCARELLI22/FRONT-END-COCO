@@ -1,0 +1,161 @@
+
+
+.login{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+height: 100vh;
+background-image: url("../../Images/gray-textured-wall.jpg");  
+margin: 0 auto;
+padding: 20px;
+background-color: rgb(38, 42, 55);
+}
+
+.forml{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px black;
+    padding: 15 15;
+    background-color: rgb(170, 164, 193);
+    margin: 0 auto;
+    padding: 20px;
+    color: rgb(5, 5, 87);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 300px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+} 
+
+
+.login form span{
+    color: rgb(185, 161, 23);
+    font-size: 20px;
+    font-weight: 600;
+    margin: 5px;
+    text-shadow: 1px 1px 1px rgb(20, 17, 17);
+    padding-left: 10px;
+
+}
+
+
+.login form button{
+    margin: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    border: solid 1px black;
+    width: 250px;
+    margin-left: 30px;
+}
+
+.login form button:hover{
+    background-color: rgb(13, 13, 13);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.login form input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px black;
+    width: 250px;
+}
+
+.login form input:hover{
+    background-color: rgb(13, 13, 13);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.login form label{
+
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+    padding: 2px;
+}
+
+.login form label:hover{
+    background-color: rgb(84, 80, 80);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+    color: rgb(5, 5, 87);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 300px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.login h1{
+    color: rgb(5, 5, 87);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+
+.login h1:hover{
+    color: rgb(5, 5, 87);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.login a{
+    color: rgb(211, 211, 218);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    border-radius: 8px;
+    margin: 20px;
+padding-left: 70px;
+text-decoration: none;
+}
+
+.login a:hover{
+    color: rgb(5, 5, 87);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    border-radius: 8px;
+    margin: 20px;
+padding-left: 70px;
+}
+
+
+.login article{
+    color: rgb(214, 208, 208);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+    margin: 20px;
+padding-left: 70px;
+padding-top: 20px;
+text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
