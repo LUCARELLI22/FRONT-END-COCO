@@ -23,6 +23,7 @@ const FormularioEditarProducto = ({ productId, productoInicial, setEditMode, set
             );
             alert('Producto actualizado exitosamente');
         } catch (error) {}
+        alert('Producto actualizado exitosamente');
     }; 
 
     return (
@@ -36,8 +37,8 @@ const FormularioEditarProducto = ({ productId, productoInicial, setEditMode, set
             <textarea name="descripcion" value={productoEditado.descripcion} onChange={handleChange} />
             <label htmlFor="precio">Precio:</label>
             <input type="number" name="precio" value={productoEditado.precio} onChange={handleChange} />
-            <label htmlFor="stock">Stock:</label>
-            <input type="number" name="stock" value={productoEditado.stock} onChange={handleChange} />
+            <label  htmlFor="stock">Stock  : </label>
+            <input  type="number" name="stock" value={productoEditado.stock} onChange={handleChange} />
             <button  type="submit"  >Guardar cambios</button>
         </form>
     );

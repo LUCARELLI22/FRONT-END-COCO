@@ -70,7 +70,7 @@ const [titulo, setTitulo] = useState("");
 
       <label>CODIGO :</label>
       <input
-        type="text"
+        type="number"
         value={codigo}
         onChange={(e) => setCodigo(e.target.value)}
         required
